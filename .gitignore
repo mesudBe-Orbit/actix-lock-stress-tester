@@ -1,0 +1,12 @@
+# Ignore .exe and .pdb files
+*.exe
+*.pdb
+
+# Ignore the target directory
+/target
+
+# Ignore .DS_Store files (on macOS)
+.DS_Store
+
+# Ignore .vscode directory (if using Visual Studio Code)
+.vscode/
