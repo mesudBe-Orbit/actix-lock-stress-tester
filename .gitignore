@@ -4,6 +4,7 @@
 
 # Ignore the target directory
 /target
+/custom
 
 # Ignore .DS_Store files (on macOS)
 .DS_Store
